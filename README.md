@@ -59,6 +59,8 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
 ### Routes
 
+![routes](Images/api-home.png)
+
 * `/`
 
   * Home page.
@@ -92,7 +94,7 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
 - - -
 
-## Bonus: Other Recommended Analyses
+## Bonus: Other Analysis
 
 * The following are optional challenge queries. These are highly recommended to attempt, but not required for the homework.
 
